@@ -19,7 +19,7 @@ body {
 #menu {
     position: absolute;
     width: 100%;
-    background: #f0f0f0;
+    background: #000;
     display: none;
 }
 
