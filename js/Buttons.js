@@ -17,6 +17,14 @@ export class Buttons {
                 class: "btn btn-outline-dark external",
                 external: true
             }
+        ],
+        [
+            {
+                caption: "Template opvolging sollicitatieondersteuning in klantendossier",
+                src: "https://docs.google.com/document/d/1SJeM7VPCuy31J4wxvEtcPHyZAAeWLZa3ZkhOE7YUchc/edit?tab=t.0",
+                class: "btn btn-outline-dark external",
+                external: false
+            }
         ]
     ];
 
