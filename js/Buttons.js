@@ -4,9 +4,27 @@ export class Buttons {
     buttons = [
         [
             {
-                caption: "Catch4U",
+                caption: "Catch4U Planning",
                 src: "https://docs.google.com/spreadsheets/d/1SccosYPnZgTmcT8Ve2osweYHZFtpN_7C0VeiTrDXyYs/edit?gid=2103846288#gid=2103846288",
                 class: "btn btn-outline-dark",
+                external: false
+            },
+            {
+                caption: "Template opvolging in KD",
+                src: "https://docs.google.com/document/d/1SJeM7VPCuy31J4wxvEtcPHyZAAeWLZa3ZkhOE7YUchc/edit?tab=t.0",
+                class: "btn btn-outline-dark external",
+                external: false
+            },
+            {
+                caption: "Afspraken",
+                src: "https://docs.google.com/document/d/1dl263W7msIa71WCZI7mFbGY4qUwRj2WpC2TDqh1c224/edit?tab=t.0",
+                class: "btn btn-outline-dark external",
+                external: false
+            },
+            {
+                caption: "Flow",
+                src: "https://docs.google.com/document/d/124FM1YpdE7deY42k1JFREsekzON1d5orShU_XE3QM5g/edit?tab=t.w10048yuo26m#heading=h.qmmuexe5hu81",
+                class: "btn btn-outline-dark external",
                 external: false
             }
         ],
@@ -20,8 +38,8 @@ export class Buttons {
         ],
         [
             {
-                caption: "Template opvolging sollicitatieondersteuning in klantendossier",
-                src: "https://docs.google.com/document/d/1SJeM7VPCuy31J4wxvEtcPHyZAAeWLZa3ZkhOE7YUchc/edit?tab=t.0",
+                caption: "Werkgevers ICT",
+                src: "https://docs.google.com/spreadsheets/d/1jag0YM0s0Ll54Oq8ES7CefFQ0WGSxfdG9HKJXlMcaNs/edit?gid=1413032250#gid=1413032250",
                 class: "btn btn-outline-dark external",
                 external: false
             }

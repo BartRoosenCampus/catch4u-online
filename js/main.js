@@ -12,7 +12,7 @@ const page = {
 
 page.toggleMenuButton.addEventListener('click', toggleMenu);
 page.menuArea.addEventListener('click', toggleMenu);
-page.toggleMenuButton.click();
+//page.toggleMenuButton.click();
 
 for (const navButton of page.navButtons) {
     navButton.addEventListener('click', () => {
