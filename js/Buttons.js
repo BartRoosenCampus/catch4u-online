@@ -43,6 +43,14 @@ export class Buttons {
                 class: "btn btn-outline-light",
                 external: false
             }
+        ],
+        [
+            {
+                caption: "Verslag Matching overleg",
+                src: "https://docs.google.com/document/d/1yJV5Rx_FUea7h7Nd5GItJrxWXAJI6PejDBjer8vRH7U/edit?tab=t.k6791rtx1vug#heading=h.qx14om1gzflm",
+                class: "btn btn-outline-light",
+                external: false
+            }
         ]
     ];
 
