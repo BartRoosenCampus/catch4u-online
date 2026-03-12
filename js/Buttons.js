@@ -50,6 +50,12 @@ export class Buttons {
                 src: "https://docs.google.com/document/d/1yJV5Rx_FUea7h7Nd5GItJrxWXAJI6PejDBjer8vRH7U/edit?tab=t.k6791rtx1vug#heading=h.qx14om1gzflm",
                 class: "btn btn-outline-light",
                 external: false
+            },
+            {
+                caption: "Matchingsoverleg ICT ontwikkeling",
+                src: "https://docs.google.com/spreadsheets/d/1bdxHB6SOFNqMT6W8BtuseyA-cISNbWRMh1St7kDgmQk/edit?gid=0#gid=0",
+                class: "btn btn-outline-light",
+                external: false
             }
         ]
     ];
