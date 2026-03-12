@@ -56,6 +56,12 @@ export class Buttons {
                 src: "https://docs.google.com/spreadsheets/d/1bdxHB6SOFNqMT6W8BtuseyA-cISNbWRMh1St7kDgmQk/edit?gid=0#gid=0",
                 class: "btn btn-outline-light",
                 external: false
+            },
+            {
+                caption: "Sollicitatieopdrachten",
+                src: "https://docs.google.com/spreadsheets/d/1NNlt6dnl23E0tSo1ovP7yhHUFc2_tQJ6z_4w_I5Yl78/edit?gid=997045775#gid=997045775",
+                class: "btn btn-outline-light",
+                external: false
             }
         ]
     ];
