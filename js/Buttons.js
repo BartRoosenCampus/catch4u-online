@@ -62,6 +62,12 @@ export class Buttons {
                 src: "https://docs.google.com/spreadsheets/d/1NNlt6dnl23E0tSo1ovP7yhHUFc2_tQJ6z_4w_I5Yl78/edit?gid=997045775#gid=997045775",
                 class: "btn btn-outline-light",
                 external: false
+            },
+            {
+                caption: "Opleidingen opvolging matching",
+                src: "https://docs.google.com/spreadsheets/d/1wQnmsXZ6HjOlFlu_R_PQ7ORzWhULubxYigi7oXp5YmQ/edit?gid=1849228352#gid=1849228352",
+                class: "btn btn-outline-light",
+                external: false
             }
         ]
     ];
